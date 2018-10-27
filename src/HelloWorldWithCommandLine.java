@@ -1,4 +1,4 @@
-public class HellWorldWithCommandLine {
+public class HelloWorldWithCommandLine {
     public static void main(String[] args) {
         if(args.length > 0 ){
             System.out.println("ARGS : " + args[0]);
