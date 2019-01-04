@@ -1,3 +1,5 @@
+package spring;
+
 public class StandartOutMessageRenderer implements MessageRenderer {
 
     private MessageProvider messageProvider;

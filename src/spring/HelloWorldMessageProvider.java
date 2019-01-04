@@ -1,3 +1,5 @@
+package spring;
+
 public class HelloWorldMessageProvider implements MessageProvider {
 
     @Override

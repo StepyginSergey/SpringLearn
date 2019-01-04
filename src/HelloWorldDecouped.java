@@ -1,3 +1,8 @@
+import spring.HelloWorldMessageProvider;
+import spring.MessageProvider;
+import spring.MessageRenderer;
+import spring.StandartOutMessageRenderer;
+
 public class HelloWorldDecouped {
 
     public static void main(String[] args) {
